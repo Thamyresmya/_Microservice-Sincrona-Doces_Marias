@@ -1,7 +1,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **MicroServices Doces Marias**
+| :sparkles: Nome        | **Microsserviço - Comunicação Síncrona - Doces Marias**
 | :label: Tecnologias | Java, Spring Boot, MySQL, Insomnia, Git, Github
 | :rocket: URL         | https://github.com/Thamyresmya/_Microservice-Sincrona-Doces_Marias
 | :fire: Desafio     | 
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - MySQL
 - insomnia
 - Git e Github
-- Open 
+- OpenFeign
 
 <br>
 
